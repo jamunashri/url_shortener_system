@@ -3,7 +3,7 @@ To run this application
 npm run
 
 Demo
-<img src='./public/video.gif' alt="Output">
+<img src='https://github.com/jamunashri/url_shortener_system/blob/main/public/video.gif' alt="Output">
 
 Screenshots 
 

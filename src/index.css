@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: wheat;
+}
+.btn {
+  background-color: rgb(43, 43, 187);
+  color: white;
+  border-radius: 1px solid black;
+}
+.err {
+  color: red;
+}
+
+h1 {
+  color: brown;
+}
+h2 {
+  color: rgb(199, 95, 34);
+}
+.res {
+  color: rgb(78, 119, 20);
+}
